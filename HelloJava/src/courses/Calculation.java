@@ -12,6 +12,7 @@ public class Calculation {
 	public void subtraction (int firstNum,int secondNum) {
 		total = firstNum - secondNum;
 		System.out.println("the subtraction of numbers is :"+ total);
+		
 	}
 
 }
